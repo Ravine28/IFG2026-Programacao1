@@ -24,7 +24,7 @@ Variável de Instância Pública --> Variável do Objeto
 
 Entender como uma lista de objetos funciona, como faço para puxar um objeto específico dentro de uma lista.
 
-"extend" é a palavra que faz com que o objeto herde um método de outro
+"extends" é a palavra que faz com que o objeto herde um método de outro
 
 Quanto a herança, um objeto é capaz de herdar somente método, ou atributo tbm?
 
