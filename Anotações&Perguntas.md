@@ -16,3 +16,16 @@ Stack é onde a operação (partes isoladas) acontece, Heap e onde ficam os obje
 
 Set vs Construtor: Construtor é como se fosse a certidão de nascimento do objeto (que roda uma única vez), já o Set serve para que alterações ao longo da vida do objeto sejam feitas sem a necessidade de se criar um novo objeto do zero. Ex:com Set é possível atualizar a data do objeto a cada ano, sem o Set, somente com o construtor, a cada ano eu precisaria criar um novo objeto com a data atualizada.
 
+Caso um atributo seja fixo, não há necessidade do SET
+
+Encapsulamento --> presença de private na declaração dos atributos e de public seguidos de get e set
+
+Herança --> extends (palavra chave que cria linha evolutiva entre as classes)
+
+Polimorfismo --> @Override (palavra que ativa o polimorfismo): objetos iguais de comportamentos diferentes. Cliente e Funcionário herdam de SerHumano mas possuem métodos com comportamentos diferentes - APENAS MÉTODOS.
+    No Java ATRIBUTOS NÃO SÃO POLIMÓRFICOS, caso exista o SHADOWING acontece gerando confusão na RAM.
+
+Pegada na RAM (RSS) = Heap + Metaspace + Thread Space (Stack) + Outras áreas nativas
+
+GET and SET nada mais são do que FUNÇÕES!!
+
