@@ -1,22 +1,12 @@
-<<<<<<< HEAD
-## Getting Started
+Instituição: Instituto Federal de Goiás - Campus Jataí
+Disciplina: Programação I
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Repositório com todas as atividades propostas em aula.
 
-## Folder Structure
+Semana 1 (11 e 12 de Agosto): App Venda (Classes SerHumano, Cliente e Venda)
 
-The workspace contains two folders by default, where:
+Semana 2 (18 e 19 de Agosto): App Veículo (Classes Veículo, Marca e Categoria)
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+Semana 3 (25 e 26 de Agosto): App Biblioteca (Classes Autor, Editora, Livro e Categoria)
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
-=======
-# IFG-Prog1-proj1
->>>>>>> e0768e223e6263432e22d0b85e69c989966c3f60
+Incluo tbm arquivos .md onde estão anotações em aula e anotações de estudos fora de sala.
