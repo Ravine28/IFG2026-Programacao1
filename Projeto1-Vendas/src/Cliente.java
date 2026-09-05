@@ -3,19 +3,19 @@ public class Cliente{
     private int cpf;
     private String nome;
 
-    public Cliente(int idCliente, int cpf, String nome){ //construtor
+    public Cliente(int idCliente, int cpf, String nome){ //construtor completo
         this.idCliente = idCliente;
         this.cpf = cpf;
         this.nome = nome;
     }
 
-    public Cliente(int idCliente){ //construtor
+    /*public Cliente(int idCliente){ //construtor pacial - somente ID
         this.idCliente = idCliente;
     }
     
-    public Cliente(){ //construtor
+    public Cliente(){ //construtor padrão vazio
 
-    }
+    }*/
     
     public int getIdCliente(){
         return idCliente;
@@ -25,7 +25,7 @@ public class Cliente{
         this.idCliente = idCliente;
     }
 
-    public int getCpf(int cpf){
+    public int getCpf(){
         return cpf;
     }
 
@@ -33,7 +33,7 @@ public class Cliente{
         this.cpf = cpf;
     }
 
-    public String getNome(String nome){
+    public String getNome(){
         return nome;
     }
 
